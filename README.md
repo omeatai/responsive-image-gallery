@@ -1,5 +1,7 @@
 View Live Demo: https://responsive-image-gallery.omeatai.repl.co/ 
 <br>
+Video Tutorial: https://youtu.be/YkBbb456u0U
+<br>
 A Responsive Image Gallery.
 <br>
 Developed by:
