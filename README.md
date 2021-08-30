@@ -20,3 +20,4 @@ Hashnode: https://hashnode.com/@omeatai
 <br>
 Medium: https://medium.com/@omeatai 
 <br>
+&copy; 2021
